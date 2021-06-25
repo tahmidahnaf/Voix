@@ -4,11 +4,11 @@ setup(
   packages = ['voix'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'It is a tu=iny library which can generate voice !',   # Give a short description about your library
+  description = 'It is a tiny library which can generate voice !',   # Give a short description about your library
   author = 'Tahmid Ahnaf',                   # Type in your name
   author_email = 'tahmidahnafxtra@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/tahmidahnaf/voix',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/tahmidahnaf/voix/dist/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/tahmidahnaf/voix/archive/refs/tags/0.1.tar.gz',    # I explain this later on
   keywords = ['voix','voice','sound','sound generator','meaningfull sound generator' , 'voice generator'],   # Keywords that define your package best
   install_requires=[  
       'gtts',
